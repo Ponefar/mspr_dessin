@@ -2,9 +2,12 @@
 
 
 cd app_rn
-npm i 
-npm start
 
+
+npm i 
+
+
+npm start
 
 
 
